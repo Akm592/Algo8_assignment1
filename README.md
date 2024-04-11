@@ -46,6 +46,17 @@ JWT_SECRET=your_jwt_secret_key
 npm start
 ```
 
+6. **Start the server with nodemon:**
+
+```
+npm run dev
+```
+5. **Start the test server:**
+
+```
+npm run test
+```
+
 ## API Documentation
 
 ### Authentication
