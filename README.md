@@ -38,7 +38,7 @@ JWT_SECRET=your_jwt_secret_key
 ```
 
 4. **Create the database schema:**
-   - Run the provided SQL script to create the necessary tables in your MySQL database. (e.g., `source schema.sql`)
+   - Run the provided SQL script to create the necessary tables in your MySQL database. (e.g., `./schema/schema.sql`)
 
 5. **Start the server:**
 
